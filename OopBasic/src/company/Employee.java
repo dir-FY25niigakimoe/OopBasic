@@ -1,7 +1,7 @@
 package company;
-
+    
 public class Employee {
-    // フィールド
+ // フィールド
     String name;
      String department; 
     String position; 
@@ -21,4 +21,4 @@ public class Employee {
     public void report() { 
     report(1); 
     } 
-}
+    }
